@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuanlu Xu
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Scientist @ Facebook Reality Labs
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Facebook, Inc.
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a research scientist at Facebook Reality Labs, Sausalito. My research interests include computer vision, 3D vision, machine learning, AI and graphics.
 
 interests:
+- Computer Vision
+- 3D Modeling
+- Machine Learning
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Graphics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computer Science
+    institution: University of California, Los Angeles
+    year: 2019
+  - course: Master in Computer Science
+    institution: University of California, Los Angeles
+    year: 2016
+  - course: MEng in Computer Science
+    institution: Sun Yat-Sen University
+    year: 2014
+  - course: BSc in Software Engineering
+    institution: Massachusetts Institute of Technology
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yuanlu Xu is a research scientist at Facebook Reality Labs, Sausalito. His research interests include computer vision, 3D modeling, machine learning, AI and graphics. He works on creating 3D virtual human avatars.
